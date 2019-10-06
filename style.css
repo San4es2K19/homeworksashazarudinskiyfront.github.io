@@ -1,12 +1,13 @@
 .front{
     margin: 40px;
     float: left;
+    clear: left;
 }
 .kvadrat_krug{
     background: rgb(0, 0, 0);
     position: relative;
-    left: 80%;
-    top: 200px;
+    left: 70%;
+    top: 100px;
     margin-bottom: 10px;
     height: 150px;
     width: 150px;
@@ -27,6 +28,18 @@
 .three{
     left: 50px;
     top: 50px;
+}
+
+.kartinka{
+    position: absolute;
+    float: left;
+    left: 90%;
+    top: 220px;
+    float: right;
+}
+.razmer{
+    height: 70px;
+   width: 80px;
 }
 
 
